@@ -17,6 +17,7 @@ public class Maximum {
 	}
 
 	public static void main(String args[]) {
-		System.out.println("Find The Maximum Float Value - "+" " + maximum(12.0f, 14.0f, 6.0f));
+		System.out.println("Find The Maximum Float Value - "+" " + maximum("Apple","Peach","Banana"));
 	}
 }
+//Apple Peach Banana
